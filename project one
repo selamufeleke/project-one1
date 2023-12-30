@@ -1,0 +1,23 @@
+1. Introduction
+1.1 Purpose
+The purpose of document is to provide a comprehensive understanding and detailed description of the requirements and objectives for developing a social media app. The app aims to create a dynamic and interactive platform that enables users to connect, communicate, and share content with their social networks. By fostering a vibrant online community, the app intends to facilitate the exploration of diverse interests, the formation of meaningful relationships, and the expression of individuality. The primary goal is to deliver a user centric social media experience that prioritizes usability, performance, and security. This SRS document will serve as a reference for developers, designers, and stakeholders involved in the development process, ensuring that the app meets the requirements.
+1.2 Scope
+The app aims to provide a range of features and functionalities to facilitate user interactions, content sharing, and community engagement. The scope of this app includes the development of user registration and authentication systems, user profile management, social network connectivity, content creation and sharing capabilities, news feed customization, real time messaging and communication features including voice and video calls, as well as mechanisms for social engagement such as likes, comments, and sharing. The app will be developed for all kinds of platforms, supporting a wide range of devices.
+1.3 Definitions, Acronyms, and Abbreviations
+Definitions
+Real time messaging: the act of instant and immediate exchange of messages between users.
+User: Refers a person who registers and interacts with the social media app.
+Acronyms
+SRS: Software Requirements Specification
+API: Application Programming Interface
+Abbreviations
+App: Application
+
+1.4 References
+
+[List of relevant documents, standards, or resources that were used in preparing this SRS.]…
+
+1.5 Overview
+The social media app is a messaging platform designed to provide secure and efficient communication between users. This app focuses on delivering features that prioritize privacy, encryption, and user control over their data.
+The application offers a range of functionalities that enable users to connect, communicate, and share content in real-time. Some key features and characteristics of the social media app include secure messaging, multimedia sharing, privacy and support, group chat and channels, voice and video calls, search functionality and user registration and authentication.
+The target audience of this app include wide range of general users who are looking for a secure and user-friendly messaging platform. These users may include individuals of different age groups, professions, and interests who want to connect with friends, family, or colleagues. The app can also target business professionals who require secure and efficient communication channels for work-related discussions, file sharing, and collaboration. These users may include entrepreneurs, freelancers, remote teams, and corporate employees.
